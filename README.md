@@ -10,8 +10,8 @@
 
 ## Log in in the application
 
-- use any email
-- fill in the password "bddDemo"
+- Use any email
+- Fill in the password "bddDemo"
 
 ## Application Structure
 
