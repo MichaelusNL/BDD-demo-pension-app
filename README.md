@@ -8,6 +8,11 @@
 
 - Open your browser and navigate to `http://localhost:3000`
 
+## Log in in the application
+
+- use any email
+- fill in the password "bddDemo"
+
 ## Application Structure
 
 - "/" or "/login": Login page - this is the entry point of the application
