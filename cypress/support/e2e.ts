@@ -19,4 +19,4 @@ import './commands'
 
 import {slowCypressDown} from "cypress-slow-down";
 
-slowCypressDown(50)
+slowCypressDown(50, false)

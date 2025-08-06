@@ -39,6 +39,8 @@ export default defineConfig({
   e2e: {
     baseUrl: "http://localhost:3000",
     specPattern: "**/*.feature",
+    viewportWidth: 1920,
+    viewportHeight: 1080,
     setupNodeEvents,
   },
 });

@@ -20,8 +20,9 @@
 
 ## Workshop important files
 
-The file to extend on in the workshop:
+The files to extend on in the workshop:
 - cypress/e2e/pension-calculation/pension-calculation.feature
+- cypress/e2e/login/login.feature
 
 The file where you can find the steps (test file):
 - cypress/support/step_definitions/common-steps.ts

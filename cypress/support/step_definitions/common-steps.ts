@@ -15,7 +15,7 @@ Given('I open the page at URL {string}', (url: string) => {
 });
 
 Given('I am on a page with URL {string}', (url: string) => {
-    cy.visit(url);
+    cy.location('pathname').should('eq', url);
 });
 
 When('I fill in the field labeled {string} with {string}', (label: string, value: string) => {
